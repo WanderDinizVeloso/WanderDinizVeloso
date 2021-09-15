@@ -29,9 +29,10 @@
 </section>
 <br><br>
  
-### Redes Sociais:
+### Redes Sociais / Portifólio:
  
 <section align="center"> 
   <a href="https://www.linkedin.com/in/wander-diniz-veloso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wander-diniz-veloso" target="_blank"><img src="https://img.shields.io/badge/-Portifólio-%13077B5?style=for-the-badge&logo=react&logoColor=white" target="_blank"></a>
 </section>
 <br><br>
