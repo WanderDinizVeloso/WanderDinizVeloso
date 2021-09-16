@@ -8,6 +8,14 @@
 <p>Sou dedicado e tenho foco, sempre buscando aprender coisas novas!</p>
 <br><br>
 
+### Redes Sociais / Portifólio:
+ 
+<section align="center"> 
+  <a href="https://www.linkedin.com/in/wander-diniz-veloso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wander-diniz-veloso" target="_blank"><img src="https://img.shields.io/badge/-Portifólio-%13077B5?style=for-the-badge&logo=react&logoColor=white" target="_blank"></a>
+</section>
+<br><br>
+
 ### Status:
 
 <section align="center">
@@ -26,13 +34,5 @@
   <img align="center" alt="React" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">React</img>
   <img align="center" alt="Git" height="60" width="80" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">Git / GitHub</img>
   <img align="center" alt="Linux" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">Linux</img>
-</section>
-<br><br>
- 
-### Redes Sociais / Portifólio:
- 
-<section align="center"> 
-  <a href="https://www.linkedin.com/in/wander-diniz-veloso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wander-diniz-veloso" target="_blank"><img src="https://img.shields.io/badge/-Portifólio-%13077B5?style=for-the-badge&logo=react&logoColor=white" target="_blank"></a>
 </section>
 <br><br>
