@@ -32,6 +32,8 @@
   <img align="center" alt="HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML</img>
   <img align="center" alt="CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS</img>
   <img align="center" alt="React" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">React</img>
+  <img align="center" alt="Redux" height="60" width="60" src="https://cdn.iconscout.com/icon/free/png-256/redux-283024.png"> Redux </img>
+  <img align="center" alt="Node.js" height="60" width="60" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"> Node.js </img>
   <img align="center" alt="Git" height="60" width="80" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">Git / GitHub</img>
   <img align="center" alt="Linux" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">Linux</img>
 </section>
