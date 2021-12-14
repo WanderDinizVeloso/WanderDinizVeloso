@@ -33,6 +33,7 @@
   <img align="center" alt="CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS</img>
   <img align="center" alt="React" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React </img>
   <img align="center" alt="Redux" height="60" width="60" src="https://cdn.iconscout.com/icon/free/png-256/redux-283024.png"> Redux </img>
+  <br>
   <img align="center" alt="Context API" height="70" width="70" src="https://img.icons8.com/nolan/512/react-native.png"> Context API </img>
   <img align="center" alt="Hooks" height="60" width="60" src="https://img.icons8.com/office/480/000000/react.png"> Hooks </img>
   <img align="center" alt="Node.js" height="60" width="60" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"> Node.js </img>
