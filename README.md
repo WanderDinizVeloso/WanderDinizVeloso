@@ -38,6 +38,7 @@
   <img align="center" alt="Node.js" height="60" width="60" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"> Node.js </img>
   <img align="center" alt="MongoDB" height="60" width="60" src="https://img.icons8.com/color/144/000000/mongodb.png">   MongoDB   </img>
   <img align="center" alt="MySQL" height="70" width="70" src="https://img.icons8.com/fluency/144/000000/mysql-logo.png"> MySQL </img>
+  <br>
   <img align="center" alt="Metodologias Ágeis" height="60" width="60" src="https://img.icons8.com/external-sketchy-juicy-fish/144/000000/external-agile-agile-development-sketchy-sketchy-juicy-fish-2.png"> Metodologias Ágeis </img>
   <img align="center" alt="Git" height="60" width="80" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> Git / GitHub </img>
   <img align="center" alt="Linux" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> Linux </img>
