@@ -8,11 +8,10 @@
 <p>Sou dedicado e tenho foco, sempre buscando aprender coisas novas!</p>
 <br><br>
 
-### Redes Sociais / Portifólio:
+### Redes Sociais:
  
 <section align="center"> 
   <a href="https://www.linkedin.com/in/wander-diniz-veloso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wander-diniz-veloso" target="_blank"><img src="https://img.shields.io/badge/-Portifólio-%13077B5?style=for-the-badge&logo=react&logoColor=white" target="_blank"></a>
 </section>
 <br><br>
 
@@ -21,8 +20,7 @@
 <section align="center">
   <a href="https://github.com/WanderDinizVeloso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WanderDinizVeloso&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WanderDinizVeloso&layout=compact&langs_count=7&theme=highcontrast"/>
-</section>
+  </section>
 <br><br>
   
 ### Skills:
