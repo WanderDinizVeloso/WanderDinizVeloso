@@ -74,7 +74,7 @@ Acabei de fazer um projeto pessoal, visando testar minhas habilidades aprendidas
   </td>
   </td>
   <td align="center" width="180">   
-   <img align="center" alt="Git" height="60" width="80" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></img><br>Git/GitHub
+   <img align="center" alt="Git" height="60" width="80" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></img><br>Git / GitHub
   </td>
  </tr>
  
