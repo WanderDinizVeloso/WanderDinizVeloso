@@ -58,7 +58,7 @@ Acabei de fazer um projeto pessoal, visando testar minhas habilidades aprendidas
   </td>
   </td>
   <td align="center" width="180">   
-   <img align="center" alt="Node.js" height="60" width="60" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"></img><br>Node.js
+   <img align="center" alt="Node.js" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"></img><br>Node.js
   </td>
  </tr>
    
@@ -67,14 +67,14 @@ Acabei de fazer um projeto pessoal, visando testar minhas habilidades aprendidas
    <img align="center" alt="Express.js" height="60" width="60" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"></img><br>Express.js
   </td> 
   <td align="center" width="180">   
-   <img align="center" alt="Linux" height="60" width="80" src="https://bitvoice.com.br/logon.png"></img><br>API REST
+   <img align="center" alt="API REST" height="60" width="80" src="https://bitvoice.com.br/logon.png"></img><br>API REST
   </td>
   <td align="center" width="180">   
    <img align="center" alt="MongoDB" height="60" width="60" src="https://img.icons8.com/color/144/000000/mongodb.png"></img><br>MongoDB
   </td>
   </td>
   <td align="center" width="180">   
-   <img align="center" alt="MySQL" height="70" width="70" src="https://img.icons8.com/fluency/144/000000/mysql-logo.png"></img><br>MySQL
+   <img align="center" alt="MySQL" height="75" width="75" src="https://img.icons8.com/fluency/144/000000/mysql-logo.png"></img><br>MySQL
   </td>
  </tr>
  
