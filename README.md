@@ -67,26 +67,26 @@ Acabei de fazer um projeto pessoal, visando testar minhas habilidades aprendidas
    <img align="center" alt="Express.js" height="60" width="60" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"></img><br>Express.js
   </td> 
   <td align="center" width="180">   
+   <img align="center" alt="Linux" height="60" width="80" src="https://bitvoice.com.br/logon.png"></img><br>API REST
+  </td>
+  <td align="center" width="180">   
    <img align="center" alt="MongoDB" height="60" width="60" src="https://img.icons8.com/color/144/000000/mongodb.png"></img><br>MongoDB
+  </td>
   </td>
   <td align="center" width="180">   
    <img align="center" alt="MySQL" height="70" width="70" src="https://img.icons8.com/fluency/144/000000/mysql-logo.png"></img><br>MySQL
-  </td>
-  </td>
-  <td align="center" width="180">   
-   <img align="center" alt="Metodologias Ágeis" height="60" width="60" src="https://img.icons8.com/external-sketchy-juicy-fish/144/000000/external-agile-agile-development-sketchy-sketchy-juicy-fish-2.png"></img><br>Metodologias Ágeis
   </td>
  </tr>
  
  <tr>
   <td align="center" width="180">   
-   <img align="center" alt="Git" height="60" width="80" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></img><br>Git / GitHub
+   <img align="center" alt="Metodologias Ágeis" height="60" width="60" src="https://img.icons8.com/external-sketchy-juicy-fish/144/000000/external-agile-agile-development-sketchy-sketchy-juicy-fish-2.png"></img><br>Metodologias Ágeis
   </td> 
   <td align="center" width="180">   
    <img align="center" alt="Linux" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></img><br>Linux
   </td>
   <td align="center" width="180">   
-   
+   <img align="center" alt="Git" height="60" width="80" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></img><br>Git / GitHub 
   </td>
   </td>
   <td align="center" width="180">   
@@ -94,4 +94,5 @@ Acabei de fazer um projeto pessoal, visando testar minhas habilidades aprendidas
  </tr>
 </table>
 <br><br>
+
 
