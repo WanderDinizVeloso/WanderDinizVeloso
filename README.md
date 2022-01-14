@@ -7,7 +7,7 @@
 <p>Estudo na Trybe, escola que te ensina a programar, a aprender e a trabalhar, para me tornar um Desenvolvedor Web full-stack</p>
 <p>Sou dedicado e tenho foco, sempre buscando aprender coisas novas!</p>
 
-Acabei de fazer um projeto pessoal, visando testar minhas habilidades aprendidas até o momento! Quer dar uma olhada e me dar dicas para meu aprimoramento? Acesse: [My-Store-API](https://github.com/WanderDinizVeloso/My-Store-API/tree/first-implementation)
+Acabei de fazer um projeto pessoal, visando testar minhas habilidades aprendidas até o momento! Quer dar uma olhada e me dar dicas para meu aprimoramento? Acesse: [My-Store-API](https://github.com/WanderDinizVeloso/My-Store-API)
 <br><br>
 
 ### Redes Sociais:
