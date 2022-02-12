@@ -89,7 +89,8 @@ Acabei de fazer um projeto pessoal, visando testar minhas habilidades aprendidas
    <img align="center" alt="Git" height="60" width="80" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></img><br>Git / GitHub 
   </td>
   </td>
-  <td align="center" width="180">   
+  <td align="center" width="180">
+   <img align="center" alt="heroku" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/heroku_icon_130912.png"></img><br>heroku 
      </td>
  </tr>
 </table>
