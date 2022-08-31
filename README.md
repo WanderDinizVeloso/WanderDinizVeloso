@@ -11,7 +11,7 @@
 Acabei de fazer dois projetos pessoais, visando testar minhas habilidades aprendidas até o momento! Quer dar uma olhada e me dar dicas para meu aprimoramento? Acesse: [My-Store-API](https://github.com/WanderDinizVeloso/My-Store-API) ou [coffee-shop-API](https://github.com/WanderDinizVeloso/coffee-shop-API)
 <br
 
-Quer aprender sobre commit semântico e como automatizar a versão dos seus projeto? Acesse [AQUI](https://github.com/WanderDinizVeloso/conventional-commit-and-auto-version)
+Quer aprender sobre commit semântico e como automatizar a versão dos seus projetos? Acesse [AQUI](https://github.com/WanderDinizVeloso/conventional-commit-and-auto-version)
 
 ### Redes Sociais:
  
