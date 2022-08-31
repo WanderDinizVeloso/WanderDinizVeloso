@@ -2,10 +2,11 @@
 
 ### Sobre mim:
 
-<p>Estou em transição de carreira.</p>
 <p>Meu objetivo, como profissional e eterno estudante, é aprimorar e aplicar, cada vez mais, conhecimentos na área da programação.</p>
-<p>Estudo na Trybe, escola que te ensina a programar, a aprender e a trabalhar, para me tornar um Desenvolvedor Web full-stack</p>
+<p>Estudei na Trybe, escola que te ensina a programar, a aprender e a trabalhar, para me tornar um Desenvolvedor Web full-stack</p>
 <p>Sou dedicado e tenho foco, sempre buscando aprender coisas novas!</p>
+
+<p>Atuo na Seedz, como desenvolvedor back-end Jr.</p>
 
 Acabei de fazer dois projetos pessoais, visando testar minhas habilidades aprendidas até o momento! Quer dar uma olhada e me dar dicas para meu aprimoramento? Acesse: [My-Store-API](https://github.com/WanderDinizVeloso/My-Store-API) ou [coffee-shop-API](https://github.com/WanderDinizVeloso/coffee-shop-API)
 <br><br>
