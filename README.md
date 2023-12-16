@@ -6,7 +6,7 @@
 
 <p>Atuo na Seedz, como desenvolvedor back-end.</p>
 
-Acabei de fazer dois projetos pessoais, visando testar minhas habilidades aprendidas até o momento! Quer dar uma olhada e me dar dicas para meu aprimoramento? Acesse: [My-Store-API](https://github.com/WanderDinizVeloso/My-Store-API) ou [coffee-shop-API](https://github.com/WanderDinizVeloso/coffee-shop-API)
+Acabei de fazer um projetos pessoal, visando testar minhas habilidades aprendidas até o momento! Quer dar uma olhada e me dar dicas para meu aprimoramento? Acesse: [queue-free](https://github.com/WanderDinizVeloso/queue-free)
 <br>
 
 Quer aprender sobre commit semântico e como automatizar a versão dos seus projetos? Acesse [AQUI](https://github.com/WanderDinizVeloso/conventional-commit-and-auto-version)
